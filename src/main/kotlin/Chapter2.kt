@@ -44,6 +44,10 @@ class Chapter2 {
         BLUE, INDIGO, VIOLET -> "cold"
     }
 
+    // Using when intead of if
+    interface Expr
+    class Num(val value: Int): Expr
+
 
 
 
