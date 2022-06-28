@@ -1,6 +1,6 @@
-import java.util.Arrays
+package kia
 
-import Chapter2.Color.*
+import kia.Chapter2.Color.*
 
 class Chapter2 {
 

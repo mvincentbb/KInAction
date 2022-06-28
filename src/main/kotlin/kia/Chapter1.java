@@ -1,3 +1,5 @@
+package kia;
+
 public class Chapter1 {
 
     static public class Person{
