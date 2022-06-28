@@ -177,5 +177,6 @@ gradle-app.setting
 .classpath
 /.gradle
 /build
+/gradle
 
 # End of https://www.toptal.com/developers/gitignore/api/gradle
