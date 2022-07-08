@@ -185,6 +185,7 @@ gradle-app.setting
 **/build/
 !src/**/build/
 
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
@@ -196,5 +197,10 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+.gradle/vcs-1/gc.properties
+build/kotlin/compileKotlin/localstate/build-history.bin
+build
+.gradle/7.3.3/*
+
 
 # End of https://www.toptal.com/developers/gitignore/api/gradle
